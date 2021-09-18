@@ -8,7 +8,7 @@ The purpose of this project was to complete an election audit of Colorado State 
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 ## Election-Audit Results
-Please see picture below for; Total of voters,percentage of total votes for each county, the number of the largest county, percentage and total vote each candidete received and finally wich canditate won, their vote count, percentage of votes.
+Please see picture below for, total of voters, percentage of total votes for each county, the number of the largest county, percentage and total vote each candidete received and finally which canditate won, their vote count and percentage of votes.
 
 ![Results](https://user-images.githubusercontent.com/85411967/133898369-3815a20a-ecd5-4767-8e14-0829086bce6b.png)
 
