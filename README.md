@@ -12,8 +12,4 @@ Please see picture below for; Total of voters,percentage of total votes for each
 
 ![Results](https://user-images.githubusercontent.com/85411967/133898369-3815a20a-ecd5-4767-8e14-0829086bce6b.png)
 
-## Results
-
-## Challenge Overview
-
-## Challenge Summary
+## Election-Audit Summary
