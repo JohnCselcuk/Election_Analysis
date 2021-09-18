@@ -1,6 +1,6 @@
 # Election_Analysis
 
-Hello and welcome! Would you like to help me to complete this anaylysis ? 
+Hello and welcome! Would you like to join me to complete this anaylysis ? 
 If so, keep reading please... :)
 
 ## Overview of Election Audit
