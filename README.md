@@ -7,3 +7,12 @@ The purpose of this project was to complete an election audit of a recent local 
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
+
+## Resourses
+
+
+## Results
+
+## Challenge Overview
+
+## Challenge Summary
