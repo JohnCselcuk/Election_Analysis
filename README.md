@@ -11,5 +11,6 @@ The purpose of this project was to complete an election audit of Colorado State 
 Please see picture below for; Total of voters,percentage of total votes for each county, the number of the largest county, percentage and total vote each candidete received and finally wich canditate won, their vote count, percentage of votes.
 
 ![Results](https://user-images.githubusercontent.com/85411967/133898369-3815a20a-ecd5-4767-8e14-0829086bce6b.png)
+The total amount of votes that were cased in the congressional election was 369,711. Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
 
 ## Election-Audit Summary
