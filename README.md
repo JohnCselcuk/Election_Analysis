@@ -15,7 +15,7 @@ Please see picture below for, total of voters, percentage of total votes for eac
 The total amount of votes that were casted in the congressional election was 369,711. Denver received the most votes within this election, winning 82.8% of the total votes. Jefferson received 10.5% of the total votes, whereas Arapahoe only received 6.7% of the total votes.
 
 ## Election-Audit Summary
-This script can be modified to use in any other states with following changes; county,votes,candidates. Of course the results will be change with inculuding new data sheets. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county. 
+This script can be modified to use in any other states with following changes; county,votes,candidates. Of course the results will change with inculuding new data sheets. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county. 
 
 Thank you for our time and consideration
 
