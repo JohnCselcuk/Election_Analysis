@@ -1,8 +1,5 @@
 # Election_Analysis
 
-Hello and welcome! Would you like to join me to complete this anaylysis ? 
-If so, keep reading please... :)
-
 ## Overview of Election Audit
 The purpose of this project was to complete an election audit of Colorado State Election Results.
 1. Calculate the total number of votes cast.
