@@ -8,6 +8,22 @@ The purpose of this project was to complete an election audit of Colorado State 
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 ## Election-Audit Results
+- There was 369,711 total votes count it.
+- Here is a votes and percentage of county's;
+  Jefferson: 10.5% (38,855)
+  Denver: 82.8% (306,055)
+  Arapahoe: 6.7% (24,801)
+- Denver county had largest number of votes
+- Here is the each candidate's get votes and percentage 
+  Charles Casper Stockham: 23.0% (85,213)
+  Diana DeGette: 73.8% (272,892)
+  Raymon Anthony Doane: 3.1% (11,606)
+- Here is the results for winner candidate
+  Winner: Diana DeGette
+  Winning Vote Count: 272,892
+  Winning Percentage: 73.8%
+
+
 Please see picture below for, total of voters, percentage of total votes for each county, the number of the largest county, percentage and total vote each candidete received and finally which canditate won, their vote count and percentage of votes.
 
 ![Results](https://user-images.githubusercontent.com/85411967/133898369-3815a20a-ecd5-4767-8e14-0829086bce6b.png)
