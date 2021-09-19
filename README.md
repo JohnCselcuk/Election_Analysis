@@ -20,7 +20,7 @@ The purpose of this project was to complete an election audit of Colorado State 
   Charles Casper Stockham: 23.0% (85,213)
   Diana DeGette: 73.8% (272,892)
   Raymon Anthony Doane: 3.1% (11,606)
-- Here is the results for winner candidate
+- Here is the results for winner candidate;
   Diana DeGette
   Winning Vote Count: 272,892
   Winning Percentage: 73.8%
