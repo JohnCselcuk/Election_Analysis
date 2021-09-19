@@ -16,7 +16,7 @@ The purpose of this project was to complete an election audit of Colorado State 
   Denver: 82.8% (306,055)
   Arapahoe: 6.7% (24,801)
 - Denver county had largest number of votes
-- Here is the each candidate's get votes and percentage 
+- Here is the each candidate's votes and percentage; 
   Charles Casper Stockham: 23.0% (85,213)
   Diana DeGette: 73.8% (272,892)
   Raymon Anthony Doane: 3.1% (11,606)
